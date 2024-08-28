@@ -1,3 +1,3 @@
 #!/bin/bash
-DATE=$(DATE)
+DATE=$(date)
 echo "This script is executed at $DATE"
