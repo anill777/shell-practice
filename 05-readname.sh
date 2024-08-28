@@ -9,5 +9,5 @@ echo "You enter username as : $USERNAME"
 #SUM=$((NUM1+NUM2))
 #echo "The Sum is: $SUM"
 echo "Please enter password"
-read PASSWD
+read -s PASSWD
 echo "You enter username as : $PASSWD"
