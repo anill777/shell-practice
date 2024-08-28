@@ -6,6 +6,7 @@ then
     if [ $num=10 ]
     then
     echo "the given $num is equal to 10"
+    fi
 else
     echo "the given $num is less than 10"
 fi
