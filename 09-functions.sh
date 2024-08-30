@@ -13,5 +13,5 @@ echo "date is: $date"
 exit 1
 else
 echo -e "$G User is root user $N"
-echo "date is: $date"
+#echo "date is: $date"
 fi
