@@ -8,10 +8,10 @@ Y="\e[33m"
 
 if [ $user -ne 0 ]
 then
-echo "$R User not entered as root user $N"
+echo -e "$R User not entered as root user $N"
 echo "date is: $date"
 exit 1
 else
-echo "$G User is root user $N"
+echo -e "$G User is root user $N"
 echo "date is: $date"
 fi
